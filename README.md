@@ -1,10 +1,10 @@
 
-<h3>👋 Hi, I’m Aditya Gustian also follow me @adityagstian_ </h3>
-<hr>
+#👋 Hi, I’m Aditya Gustian also follow me @adityagstian_
+
 Connect with me
 <br>
-<a href="https://www.instagram.com/adityagstian_/">
-  <img src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584852.png" width="40px">
+<a href="https://www.instagram.com/adityagstian_/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40px">
 </a>
 
 <p>
