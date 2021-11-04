@@ -1,5 +1,5 @@
 
-<h1 style="text-center">👋 Hi, I’m Aditya Gustian <h1>
+<h1 style="text-center">👋 Hi, I’m Aditya Gustian </h1>
 
 ###Connect with me
 
