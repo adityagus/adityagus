@@ -15,8 +15,8 @@
 </a>
   </p>
   
-👀 I’m interested in Frontend Developer (Node.js, Reactjs, etc)
-🌱 I’m currently learning Reactjs
-📫 How to reach me ? just contact my email at adityagustian11@gmail.com
+👀 I’m interested in Frontend Developer (Node.js, Reactjs, etc) <br>
+🌱 I’m currently learning Reactjs <br>
+📫 How to reach me ? just contact my email at adityagustian11@gmail.com <br>
 
 
