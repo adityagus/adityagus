@@ -15,7 +15,7 @@
 </a>
   </p>
   
-👀 I’m interested in Frontend Developer (Vuejs, Reactjs, etc) <br>
+👀 I’m interested in Backend Developer (PHP, Laravel) <br>
 🌱 I’m currently learning Reactjs <br>
 📫 How to reach me ? just contact my email at adityagustian11@gmail.com <br>
 
